@@ -5,7 +5,7 @@
 - 📫 How to reach me samarthambure67@gmai.com
 - 😄 Pronouns: Samarth
 - ⚡ Fun fact: I am a kabbadi player 
-- Ths
+- This is test
 <!---
 samarth-ambure/samarth-ambure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
